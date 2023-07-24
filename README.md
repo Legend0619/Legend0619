@@ -6,10 +6,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Legend0619&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Legend0619&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br clear="both">
+
+<p align="left">- Any Smart contracts in Solidity (Truffle, Hardhat, Foundry, Remix, Tenderly, etc)<br>- NFT minting engines/NFT marketplaces, NFT staking, NFT lottery, NFT Games.<br>- DeFi systems like PancakeSwap, Uniswap, Sushiswap, Tombo, PantherSwap, GooseDeFi, etc.<br>- Decentralized Exchanges with TradingView.<br>- Token Bridge, Block Explorer.<br>- Zero Knowledge Proof(ZKP) using CIRCOM & SNARKJS.<br>- Chains: ETH, BSC, Polygon, Harmony, Cronos, Songbird, Aptos, zkSync, etc.</p>
 
 ###
 
@@ -77,11 +76,5 @@
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<p align="left">- Any Smart contracts in Solidity (Truffle, Hardhat, Foundry, Remix, Tenderly, etc)<br>- NFT minting engines/NFT marketplaces, NFT staking, NFT lottery, NFT Games.<br>- DeFi systems like PancakeSwap, Uniswap, Sushiswap, Tombo, PantherSwap, GooseDeFi, etc.<br>- Decentralized Exchanges with TradingView.<br>- Token Bridge, Block Explorer.<br>- Zero Knowledge Proof(ZKP) using CIRCOM & SNARKJS.<br>- Chains: ETH, BSC, Polygon, Harmony, Cronos, Songbird, Aptos, zkSync, etc.</p>
 
 ###
