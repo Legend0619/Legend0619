@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is David Lee and I am a senior blockchain developer.</h2>
+<h2 align="left">Hi 👋! I am a senior blockchain developer.</h2>
 
 ###
 
