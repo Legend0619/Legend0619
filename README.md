@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">-React, Next, Express, MongoDB, Node.js <br>- Any Smart contracts in Solidity (Truffle, Hardhat, Foundry, Remix, Tenderly, etc)<br>- NFT minting engines/NFT marketplaces, NFT staking, NFT lottery, NFT Games.<br>- DeFi systems like PancakeSwap, Uniswap, Sushiswap, Tombo, PantherSwap, GooseDeFi, etc.<br>- Decentralized Exchanges with TradingView.<br>- Token Bridge, Block Explorer.<br>- Zero Knowledge Proof(ZKP) using CIRCOM & SNARKJS.<br>- Chains: ETH, BSC, Polygon, Harmony, Cronos, Songbird, Aptos, zkSync, etc.</p>
+<p align="left">- React, Next, Express, MongoDB, Node.js <br>- Any Smart contracts in Solidity (Truffle, Hardhat, Foundry, Remix, Tenderly, etc)<br>- NFT minting engines/NFT marketplaces, NFT staking, NFT lottery, NFT Games.<br>- DeFi systems like PancakeSwap, Uniswap, Sushiswap, Tombo, PantherSwap, GooseDeFi, etc.<br>- Decentralized Exchanges with TradingView.<br>- Token Bridge, Block Explorer.<br>- Zero Knowledge Proof(ZKP) using CIRCOM & SNARKJS.<br>- Chains: ETH, BSC, Polygon, Harmony, Cronos, Songbird, Aptos, zkSync, etc.</p>
 
 ###
 
