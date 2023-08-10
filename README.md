@@ -1,14 +1,14 @@
-<h2 align="left">Hi 👋! I am a senior blockchain developer.</h2>
-
-###
-
-<h3 align="left">I am a senior blockchain developer with NFT/DeFi fields.</h3>
+<h2 align="left">Hi 👋! I am a senior full stack developer.</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">- React, Next, Express.js, Nest.js, MongoDB, PostgreSQL, Node.js <br>- Any Smart contracts in Solidity (Truffle, Hardhat, Foundry, Remix, Tenderly, etc)<br>- NFT minting engines/NFT marketplaces, NFT staking, NFT lottery, NFT Games.<br>- DeFi systems like PancakeSwap, Uniswap, Sushiswap, Tombo, PantherSwap, GooseDeFi, etc.<br>- Decentralized Exchanges with TradingView.<br>- Token Bridge, Block Explorer.<br>- Zero Knowledge Proof(ZKP) using CIRCOM & SNARKJS.<br>- Chains: ETH, BSC, Polygon, Harmony, Cronos, Songbird, Aptos, zkSync, etc.</p>
+<p align="left">Full Stack Developer with extensive experience in various JavaScript frameworks and proven ability to lead, collaborate, and guide a team of developers. Adept at handling end-to-end development and delivering high-quality web applications. Currently seeking new opportunities to expand knowledge and utilize expertise.</p>
+
+###
+
+<p>- Efficient Code Exceptionally organized and capable of working effectively in a fast-paced environment. <br>- Multitasking ability Strong attention to detail and ability to multitask effectively.<br>- Collaborative Spirit Effective team player with expertise in working with other developers.</p>
 
 ###
 
