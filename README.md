@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! I am a senior full stack developer.</h2>
+<h2 align="left">Hi 👋! I am a full stack developer.</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">Full Stack Developer with extensive experience in various JavaScript frameworks and proven ability to lead, collaborate, and guide a team of developers. Adept at handling end-to-end development and delivering high-quality web applications. Currently seeking new opportunities to expand knowledge and utilize expertise.</p>
+<p align="left">Full Stack Developer with extensive experience in various JavaScript frameworks and proven ability to collaborate. Adept at handling end-to-end development and delivering high-quality web applications. Currently seeking new opportunities to expand knowledge and utilize expertise.</p>
 
 ###
 
