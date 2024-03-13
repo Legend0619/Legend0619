@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! I am a full stack developer.</h2>
 
+<h4 align="center">Find me online</h5>
+<div align="center">
+  <a href="https://discord.gg/legend0619" target="blank" sytle="margin-right:-4px;" ><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png"" alt="honest888" height="50px" width="50px"/></a>
+  <a href="https://t.me/legend0619" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" alt="honest888" height="50px" width="50px" /></a>
+<!--   <a href="https://join.skype.com/invite/ORViDdbMeCnR" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_skype-512.png" alt="hoenst888" height="50px" width="50px"/></a> -->
+<!--   <a href="https://wa.me/17162208652" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Whatsapp-512.png" alt="honest888" height="50px" width="50px" /></a> -->
+<div>
+
 ###
 
 <br clear="both">
@@ -8,7 +16,7 @@
 
 ###
 
-<p>- Efficient Code Exceptionally organized and capable of working effectively in a fast-paced environment. <br>- Multitasking ability Strong attention to detail and ability to multitask effectively.<br>- Collaborative Spirit Effective team player with expertise in working with other developers.</p>
+<p align="left">- Efficient Code Exceptionally organized and capable of working effectively in a fast-paced environment. <br>- Multitasking ability Strong attention to detail and ability to multitask effectively.<br>- Collaborative Spirit Effective team player with expertise in working with other developers.</p>
 
 ###
 
@@ -74,8 +82,8 @@
 
 ###
 
-<h3>My Certificates</h3>
-<ul>
+<h3 align="left">My Certificates</h3>
+<ul align="left">
   <li>
     <a href="http://email.postmaster.hackerrankmail.com/c/eJxskc_OmzAQxJ_GHKP1-v-BQyXEa6DFXhIEhMgYpX37ylT9lOrrkZ0fM57d1AZrCRtupQ1SK-0lNo820RQokIbgozLko3VWOm395MikKTZzi4AKPDgZACTe0BtW1iflVCQYtdDw2o-y0VE43x4UF86ZnstG83qL-9as7aOUl1A_BPYC-_f7_UFVQmBf4SFzmjPHUr_LUDLFRag-7s_CP4tQ3QUV3l4rFR6kCmpAtNLIAALtH89hTkJ1H-OFfwnVgeFoFaAn4_UYRprUBIZTsIzOKwwBLWMwAu2_KZddjfqrnOc1ghhHAMugIYAzzmiYpAxMYA0mQwJt2YXqavVDoKntTe1v_r8Bg33kXOZpjlT4uAbJRefqVUaw1aI_yzZsnOaz_qA6rg-qpK3CsZ858iV8X9QXFWl70Xx_Xtwjx-FY5nU9ho_wJrcr3_mZAoCVQWi4f92ytN-9fwcAAP__B-27MA">CSS Certificate</a>
   </li>
