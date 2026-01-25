@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">Full Stack Developer with extensive experience in various JavaScript frameworks and proven ability to collaborate. Adept at handling end-to-end development and delivering high-quality web applications. Currently seeking new opportunities to expand knowledge and utilize expertise.</p>
+<p align="left">A Senior Full Stack Developer with extensive experience in various JavaScript frameworks and proven ability to collaborate. Adept at handling end-to-end development and delivering high-quality web applications. Currently seeking new opportunities to expand knowledge and utilize expertise.</p>
 
 ###
 
