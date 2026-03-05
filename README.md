@@ -4,10 +4,6 @@
 
 ###
 
-<p align="left">- Efficient Code Exceptionally organized and capable of working effectively in a fast-paced environment. <br>- Multitasking ability Strong attention to detail and ability to multitask effectively.<br>- Collaborative Spirit Effective team player with expertise in working with other developers.</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
