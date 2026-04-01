@@ -77,9 +77,6 @@
     Microsoft Certified: Azure Developer Associate
   </li>
   <li>
-    Microsoft Certified: DevOps Engineer Expert
-  </li>
-  <li>
      Node.js Certified Developer (JSNAD)
   </li>
   <li>
