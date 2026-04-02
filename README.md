@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I am a Senior Full Stack Engineer.</h2>
 
-<p align="left">Senior Full Stack Engineer with 12+ years of experience building high-scale SaaS platforms using Node.js, Python, React, and TypeScript. Expert in designing distributed systems, real-time data pipelines, and multi-tenant architectures powering millions of users. Experienced delivering AI-powered features including recommendation systems, semantic search, and intelligent automation. Strong technical leader known for solving complex problems, improving platform performance and reliability, and mentoring engineers while remaining hands-on.</p>
+<p align="left">Senior Full Stack Engineer with solid experience building high-scale SaaS platforms using Node.js, Python, React, and TypeScript. Expert in designing distributed systems, real-time data pipelines, and multi-tenant architectures powering millions of users. Experienced delivering AI-powered features including recommendation systems, semantic search, and intelligent automation. Strong technical leader known for solving complex problems, improving platform performance and reliability, and mentoring engineers while remaining hands-on.</p>
 
 ###
 
