@@ -77,12 +77,9 @@
     Microsoft Certified: Azure Developer Associate
   </li>
   <li>
-     Node.js Certified Developer (JSNAD)
-  </li>
-  <li>
     React.js Certification — Coursera
   </li>
   <li>
-    Certified Professional in Python Programming
+    HIPAA Training Certificate - Accountable
   </li>
 </ul>
